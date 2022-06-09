@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 #change to your rails version
-gem 'rails', '~>YOUR_RAILS_VERSION'
+gem 'rails', '6.1.3'
